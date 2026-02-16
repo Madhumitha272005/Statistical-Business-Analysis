@@ -1,0 +1,4 @@
+HYPOTHESIS TEST RESULTS
+One-sample t-test p-value: 0.0000
+Independent t-test p-value: 0.1576
+ANOVA p-value: 0.0934
